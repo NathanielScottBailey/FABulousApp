@@ -1,0 +1,65 @@
+<!--
+  Copyright 2018 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Material Me!</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vestibulum quam nec sapien accumsan, posuere vestibulum enim porta. Morbi sit amet ligula augue. Donec in nunc purus. Sed id dolor a leo ultrices dignissim in non velit. Quisque mollis placerat lacus consectetur iaculis. Sed quis quam tellus. Maecenas cursus nec mi sit amet volutpat. Praesent eleifend laoreet lectus, sed maximus dolor lobortis non. Nullam ac lobortis nulla. Suspendisse fringilla felis nec orci ullamcorper aliquam. Curabitur condimentum, orci a efficitur vestibulum, magna purus fringilla ex, quis feugiat nisi diam fringilla purus. Donec quam ipsum, congue a est in, posuere accumsan nisl. Sed fringilla eu ante quis hendrerit. Proin viverra faucibus turpis, vitae finibus neque viverra et. Quisque orci velit, aliquet a ipsum semper, eleifend condimentum mauris. Duis consequat nisi rhoncus libero congue faucibus at eget nunc. Proin vel porta lacus. Nulla ac consequat libero. Proin malesuada pellentesque augue, et egestas purus finibus at. Proin vestibulum quis dolor quis faucibus. Nulla id gravida erat, vitae hendrerit quam.</string>
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+</resources>
